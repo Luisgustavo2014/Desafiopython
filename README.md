@@ -1,7 +1,7 @@
 # Desafiopython
 
 
-Execute o application.py assim que o código for concluído e,o aplicativo será iniciado no número da porta - 7001conforme mostrado nos logs abaixo.
+Execute o application.py assim que o código for concluído e o aplicativo será iniciado no número da porta - 7001conforme mostrado nos logs abaixo.
 
 Registros de aplicativos
 
