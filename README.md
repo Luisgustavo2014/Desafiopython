@@ -1,7 +1,7 @@
 # Desafiopython
 
 Execute o aplicativo
-Execute o application.pyscript python assim que o código for concluído e,o aplicativo será iniciado no número da porta - 7001conforme mostrado nos logs abaixo.
+Execute o application.py python assim que o código for concluído e,o aplicativo será iniciado no número da porta - 7001conforme mostrado nos logs abaixo.
 
 Registros de aplicativos
 
